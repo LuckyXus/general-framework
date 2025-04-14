@@ -1,1 +1,1 @@
-# open-framework
+# general-framework
