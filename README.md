@@ -98,7 +98,7 @@ def classify(all_text):
 *Step5:* Price prediction using online public opinion sentiment values and price time series data as inputs and predicted prices as outputs.
 
 ## Method 3: Customized corpus training SnowNLP for public opinion computation
-*Step1:* Positive and negative texts are determined using kimi in combination with prompt words and *pos.txt* and *neg.txt* texts are constructed for SnowNLP training as shown in Fig.
+*Step1:* Positive and negative texts are determined using kimi in combination with prompt words and *pos.txt* and *neg.txt* texts are constructed for SnowNLP training.
 
 *Step2:* Train SnowNLP using a prepared positive corpus and a negative corpus.
 ```
