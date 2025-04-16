@@ -108,8 +108,8 @@ sentiment.save("sentiment.marshal")
 ```
 *Step3:* Scoring other online public opinion texts using the trained SnowNLP.
 
-# summary
+# Summary
 The proposed general framework has good comprehensiveness and extensibility, and the functions in the framework are not limited to the analysis of vegetable prices online public opinion, but are applicable to all the tasks that need to clean, classification, and trend judgment of online public opinion, as well as public opinion computation. All scholars are welcome to give valuable suggestions on this framework, and we also call on everyone to work together to improve this framework.
 
-# copyright statement
+# Copyright statement
 This is a non-commercial project, for pure collection and aggregation of information, if any infringement, please leave a message.
